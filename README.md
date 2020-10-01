@@ -1,6 +1,6 @@
 ### Welcome to my page 👋
 
-- 🔭 I’m currently working on biophysics research, using Machine Learning to quantify animal behavior in videos. 
+- 🔭 I’m currently working in biophysics research, using Machine Learning to quantify animal behavior in videos. 
 Check out my projects and don't hesitate to contact me if you are interested!
 
 
