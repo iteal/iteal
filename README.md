@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my page 👋
+
+- 🔭 I’m currently working on biophysics research, using Machine Learning to quantify animal behavior in videos. 
+Check out my projects and don't hesitate to contact me if you are interested!
+
 
 <!--
 **iteal/iteal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
