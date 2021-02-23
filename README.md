@@ -1,7 +1,6 @@
 ### Welcome to my page 👋
 
-- 🔭 I’m currently working in biophysics research, using Machine Learning to quantify animal behavior in videos. 
-Check out my projects and don't hesitate to contact me if you are interested!
+- 🔭 My open-source projects were developed during my time at Okinawa Institute of Science and Technology (2017-2020), and are about biophysics research, using Machine Learning to quantify animal behavior in videos. Check out my projects and don't hesitate to contact me if you want to use them in your research!
 
 
 <!--
